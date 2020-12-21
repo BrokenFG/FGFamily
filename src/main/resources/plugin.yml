@@ -1,0 +1,6 @@
+name: FGFamily
+version: ${project.version}
+main: ru.brfg.fgfamily.FGFamily
+authors: [BrokenFG]
+commands:
+  marry:
